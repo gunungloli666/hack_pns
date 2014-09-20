@@ -1,0 +1,1030 @@
+Daftar Seluruh kota dan kabupaten di Indonesia:
+
+1 Kabupaten Aceh Barat
+2 Kabupaten Aceh Besar
+3 Kabupaten Aceh Selatan
+4 Kabupaten Aceh Timur
+5 Kabupaten Aceh Tengah
+6 Kabupaten Aceh Utara
+7 Kabupaten Pidie
+8 Kabupaten Aceh Tenggara
+9 Kabupaten Aceh Singkil
+10 Kabupaten Bireuen
+11 Kabupaten Simeulue
+12 Kabupaten Aceh Barat Daya
+13 Kabupaten Aceh Tamiang
+14 Kabupaten Aceh Jaya
+15 Kabupaten Gayo Lues
+16 Kabupaten Nagan Raya
+17 Kabupaten Bener Meriah
+18 Kabupaten Pidie Jaya
+19 Kota Banda Aceh
+20 Kota Sabang
+21 Kota Lhokseumawe
+22 Kota Langsa
+23 Kota Subulussalam
+1 Kabupaten Asahan
+2 Kabupaten Deli Serdang
+3 Kabupaten Karo
+4 Kabupaten Labuhan Batu
+5 Kabupaten Langkat
+6 Kabupaten Nias
+7 Kabupaten Simalungun
+8 Kabupaten Tapanuli Selatan
+9 Kabupaten Tapanuli Tengah
+10 Kabupaten Tapanuli Utara
+11 Kabupaten Dairi
+12 Kabupaten Mandailing Natal
+13 Kabupaten Toba Samosir
+14 Kabupaten Humbang Hasundutan
+15 Kabupaten Nias Selatan
+16 Kabupaten Pakpak Bharat
+17 Kabupaten Samosir
+18 Kabupaten Serdang Bedagai
+19 Kabupaten Batu Bara
+20 Kabupaten Padang Lawas Utara
+21 Kabupaten Padang Lawas
+22 Kabupaten Labuhanbatu Selatan
+23 Kabupaten Labuhanbatu Utara
+24 Kabupaten Nias Utara
+25 Kabupaten Nias Barat
+26 Kota Medan
+27 Kota Pematang Siantar
+28 Kota Sibolga
+29 Kota Binjai
+30 Kota Tanjung Balai
+31 Kota Tebing Tinggi
+32 Kota Padang Sidempuan
+33 Kota Gunungsitoli
+1 Kabupaten Agam
+2 Kabupaten Lima Puluh Kota
+3 Kabupaten Padang Pariaman
+4 Kabupaten Pasaman
+5 Kabupaten Pesisir Selatan
+7 Kabupaten Solok
+8 Kabupaten Tanah Datar
+9 Kabupaten Kepulauan Mentawai
+10 Kabupaten Dharmasraya
+11 Kabupaten Pasaman Barat
+12 Kabupaten Solok Selatan
+13 Kota Padangpanjang
+14 Kota Payakumbuh
+15 Kota Sawahlunto
+16 Kota Solok
+17 Kota Bukittinggi
+18 Kota Padang
+19 Kota Pariaman
+1 Kabupaten Batang Hari
+2 Kabupaten Bungo
+3 Kabupaten Merangin
+4 Kabupaten Tanjung Jabung Barat
+5 Kabupaten Kerinci
+6 Kabupaten Tebo
+7 Kabupaten Muaro Jambi
+8 Kabupaten Sarolangun
+9 Kabupaten Tanjung Jabung Timur
+10 Kota Jambi
+11 Kota Sungai Penuh
+1 Kabupaten Bengkalis
+2 Kabupaten Indragiri Hulu
+3 Kabupaten Kampar
+4 Kabupaten Indragiri Hilir
+5 Kabupaten Kuantan Singingi
+6 Kabupaten Pelalawan
+7 Kabupaten Rokan Hulu
+8 Kabupaten Rokan Hilir
+9 Kabupaten Siak
+10 Kabupaten Kepulauan Meranti
+11 Kota Pekanbaru
+12 Kota Dumai
+2 Kabupaten Karimun
+3 Kabupaten Natuna
+4 Kabupaten Lingga
+5 Kabupaten Kepulauan Anambas
+6 Kota Batam
+7 Kota Tanjung Pinang
+1 Kabupaten Bengkulu Selatan
+2 Kabupaten Bengkulu Utara
+3 Kabupaten Rejang Lebong
+4 Kabupaten Kaur
+5 Kabupaten Seluma
+6 Kabupaten Muko-Muko
+7 Kabupaten Kepahiang
+8 Kabupaten Lebong
+9 Kabupaten Bengkulu Tengah
+10 Kota Bengkulu
+1 Kabupaten Lahat
+2 Kabupaten Muara Enim
+3 Kabupaten Musi Banyuasin
+4 Kabupaten Musi Rawas
+5 Kabupaten Ogan Komering Ilir
+6 Kabupaten Ogan Komering Ulu
+7 Kabupaten Banyuasin
+8 Kabupaten Ogan Ilir
+9 Kabupaten Ogan Komering Ulu Timur
+10 Kabupaten Ogan Komering Ulu Selatan
+11 Kabupaten Empat Lawang
+12 Kabupaten Penukal Abab Lematang Ilir
+13 Kabupaten Musi Rawas Utara
+14 Kota Palembang
+15 Kota Prabumulih
+16 Kota Lubuk Linggau
+17 Kota Pagar Alam
+1 Kabupaten Bangka
+2 Kabupaten Belitung
+3 Kabupaten Bangka Barat
+4 Kabupaten Bangka Tengah
+5 Kabupaten Bangka Selatan
+6 Kabupaten Belitung Timur
+7 Kota Pangkal Pinang
+1 Kabupaten Lampung Selatan
+2 Kabupaten Lampung Tengah
+3 Kabupaten Lampung Utara
+4 Kabupaten Lampung Barat
+5 Kabupaten Tanggamus
+6 Kabupaten Tulang Bawang
+7 Kabupaten Lampung Timur
+8 Kabupaten Way Kanan
+9 Kabupaten Pesawaran
+10 KabupatenPringsewu
+11 Kabupaten Mesuji
+12 Kabupaten Tulang Bawang Barat
+13 Kabupaten Lampung Barat
+14 Kota Bandar Lampung
+15 Kota Metro
+1 Kabupaten Lebak
+2 Kabupaten Pandeglang
+3 Kabupaten Serang
+4 Kabupaten Tangerang
+5 Kota Tangerang
+6 Kota Cilegon
+7 Kota Serang
+8 Kota Tangerang Selatan
+1 Kota AdministratifJakarta Barat
+2 Kota Administratif Jakarta Pusat
+3 Kota Administratif Jakarta Utara
+4 Kota Administratif Jakarta Timur
+5 Kota Administratif Jakarta Selatan
+6 Kabupaten Administratif Kepulauan Seribu
+1 Kabupaten Bandung
+2 Kabupaten Bekasi
+3 Kabupaten Bogor
+4 Kabupaten Ciamis
+5 Kabupaten Cianjur
+6 Kabupaten Cirebon
+7 Kabupaten Garut
+8 Kabupaten Indramayu
+9 Kabupaten Karawang
+10 Kabupaten Kuningan
+11 Kabupaten Majalengka
+12 Kabupaten Sukabumi
+13 Kabupaten Sumedang
+14 Kabupaten Tasikmalaya
+15 Kabupaten Purwakarta
+16 Kabupaten Subang
+17 Kabupaten Bandung Barat
+18 Kabupaten Pangandaran
+19 Kota Bandung
+20 Kota Bogor
+21 Kota Cirebon
+22 Kota Sukabumi
+23 Kota Bekasi
+24 Kota Depok
+25 Kota Cimahi
+26 Kota Tasikmalaya
+27 Kota Banjar
+1 Kabupaten Banjarnegara
+2 Kabupaten Banyumas
+3 Kabupaten Blora
+4 Kabupaten Boyolali
+5 Kabupaten Brebes
+6 Kabupaten Cilacap
+7 Kabupaten Demak
+8 Kabupaten Grobogan
+9 Kabupaten Jepara
+10 Kabupaten Karanganyar
+11 Kabupaten Kebumen
+12 Kabupaten Kendal
+13 Kabupaten Klaten
+14 Kabupaten Kudus
+15 Kabupaten Magelang
+16 Kabupaten Pati
+17 Kabupaten Pekalongan
+18 Kabupaten Pemalang
+19 Kabupaten Purbalingga
+20 Kabupaten Purworejo
+21 Kabupaten Rembang
+22 Kabupaten Semarang
+23 Kabupaten Sragen
+24 Kabupaten Sukoharjo
+25 Kabupaten Tegal
+26 Kabupaten Temanggung
+27 Kabupaten Wonogiri
+28 Kabupaten Wonosobo
+29 Kabupaten Batang
+30 Kota Surakarta
+31 Kota Semarang
+32 Kota Pekalongan
+33 Kota Magelang
+34 Kota Salatiga
+35 Kota Tegal
+1 Kabupaten Bantul
+2 Kabupaten Gunung Kidul
+3 Kabupaten Sleman
+4 Kabupaten Kulon Progo
+5 Kota Yogyakarta
+1 Kabupaten Bangkalan
+2 Kabupaten Banyuwangi
+3 Kabupaten Blitar
+4 Kabupaten Bojonegoro
+5 Kabupaten Bondowoso
+6 Kabupaten Gresik
+7 Kabupaten Jember
+8 Kabupaten Jombang
+9 Kabupaten Kediri
+10 Kabupaten Lamongan
+11 Kabupaten Lumajang
+12 Kabupaten Madiun
+13 Kabupaten Magetan
+14 Kabupaten Malang
+15 Kabupaten Mojokerto
+16 Kabupaten Nganjuk
+17 Kabupaten Ngawi
+18 Kabupaten Pacitan
+19 Kabupaten Pamekasan
+20 Kabupaten Pasuruan
+21 Kabupaten Ponorogo
+22 Kabupaten Probolinggo
+23 Kabupaten Sampang
+24 Kabupaten Sidoarjo
+25 Kabupaten Situbondo
+26 Kabupaten Sumenep
+27 Kabupaten Trenggalek
+28 Kabupaten Tuban
+29 Kabupaten Tulungagung
+30 Kota Kediri
+31 Kota Madiun
+32 Kota Malang
+33 Kota Surabaya
+34 Kota Mojokerto
+35 Kota Pasuruan
+36 Kota Probolinggo
+37 Kota Blitar
+38 Kota Batu
+1 Kabupaten Badung
+2 Kabupaten Bangli
+3 Kabupaten Buleleng
+4 Kabupaten Gianyar
+5 Kabupaten Jembrana
+6 Kabupaten Karangasem
+7 Kabupaten Klungkung
+8 Kabupaten Tabanan
+9 Kota Denpasar
+1. Kabupaten Bima
+2. Kabupaten Dompu
+3. Kabupaten Lombok Barat
+4. Kabupaten Lombok Tengah
+5. Kabupaten Lombok Timur
+6. Kabupaten Sumbawa
+7. Kabupaten Sumbawa Barat
+8. Kabupaten Lombok Utara
+9. Kota Mataram
+10. Kota Bima
+1. Kabupaten Alor
+2. Kabupaten Belu
+3. Kabupaten Ende
+4. Kabupaten Flores Timur
+5. Kabupaten Kupang
+6. Kabupaten Manggarai
+7. Kabupaten Ngada
+8. Kabupaten Sikka
+9. Kabupaten Sumba Barat
+10. Kabupaten Sumba Timur
+11. Kabupaten Timor Tengah Selatan
+12. Kabupaten Timor Tengah Utara
+13. Kabupaten Lembata
+14. Kabupaten Rote Ndao
+15. Kabupaten Manggarai Barat
+16. Kabupaten Manggarai Timur
+17. Kabupaten Nagekeo
+18. Kabupaten Sumba Barat Daya
+19. Kabupaten Sumba Tengah
+20. Kabupaten Sabu Raijua
+21. Kabupaten Malaka
+22. Kota Kupang
+1 Kabupaten Kapuas Hulu
+2 Kabupaten Ketapang
+3 Kabupaten Pontianak
+4 Kabupaten Sambas
+5 Kabupaten Sanggau
+6 Kabupaten Sintang
+7 Kabupaten Bengkayang
+8 Kabupaten Landak
+9 Kabupaten Melawi
+10 Kabupaten Sekadau
+11 Kabupaten Kayong Utara
+12 Kabupaten Kubu Raya
+13 Kota Pontianak
+14 Kota Singkawang
+1 Kabupaten Barito Selatan
+2 Kabupaten Barito Utara
+3 Kabupaten Kapuas
+4 Kabupaten Kotawaringin Barat
+5 Kabupaten Kotawaringin Timur
+6 Kabupaten Barito Timur
+7 Kabupaten Gunung Mas
+8 Kabupaten Katingan
+9 Kabupaten Lamandau
+10 Kabupaten Murung Raya
+11 Kabupaten Pulang Pisau
+12 Kabupaten Sukamara
+13 Kabupaten Seruyan
+14 Kota Palangkaraya
+2 Kabupaten Barito Kuala
+3 Kabupaten Hulu Sungai Selatan
+4 Kabupaten Hulu Sungai Tengah
+5 Kabupaten Hulu Sungai Utara
+6 Kabupaten Kotabaru
+7 Kabupaten Tanah Laut
+8 Kabupaten Tabalong
+9 Kabupaten Tapin
+10 Kabupaten Tanah Bumbu
+11 Kabupaten Balangan
+12 Kota Banjarmasin
+13 Kota Banjarbaru
+1 Kabupaten Berau
+3 Kabupaten Paser
+4 Kabupaten Kutai Barat
+5 Kabupaten Kutai Timur
+6 Kabupaten Penajam Paser Utara
+7 Kabupaten Mahakam Ulu
+8 Kota Balikpapan
+9 Kota Samarinda
+10 Kota Bontang
+1 Kabupaten Bulungan
+2 Kabupaten Malinau
+3 Kabupaten Nunukan
+4 Kabupaten Tana Tidung
+5 Kota Tarakan
+1. Kabupaten Bolaang Mongondow
+2. Kabupaten Kepulauan Sangihe
+3. Kabupaten Minahasa
+4. Kabupaten Kepulauan Talaud
+5. Kabupaten Minahasa Selatan
+6. Kabupaten Minahasa Utara
+7. Kabupaten Minahasa Tenggara
+8. Kabupaten Kepulauan Siau Tagulandang Biaro
+9. Kabupaten Bolaang Mongondow Utara
+10. Kabupaten Bolaang MongondowTimur
+11. Kabupaten Bolaang Mongondow Selatan
+12. Kota Manado
+13. Kota Bitung
+14. Kota Tomohon
+15. Kota Kotamobagu
+1. Kabupaten Gorontalo
+2. Kabupaten Boalemo
+3. Kabupaten Bone Bolango
+4. Kabupaten Pohuwato
+5. Kabupaten Gorontalo Utara
+6. Kota Gorontalo
+1. Kabupaten Banggai
+2. Kabupaten Donggala
+3. Kabupaten Poso
+4. Kabupaten Toli-Toli
+5. Kabupaten Banggai Kepulauan
+6. Kabupaten Buol
+7. Kabupaten Morowali
+8. Kabupaten Parigi Moutong
+9. Kabupaten Tojo Una-Una
+10. Kabupaten Sigi
+11. Kabupaten Banggai Laut
+12. Kabupaten Morowali Utara
+13. Kota Palu
+1. Kabupaten Majene
+2. Kabupaten Mamuju
+4. Kabupaten Mamasa
+5. Kabupaten Mamuju Utara
+6. Kabupaten Mamuju Tengah
+1. Kabupaten Bantaeng
+2. Kabupaten Barru
+3. Kabupaten Bone
+4. Kabupaten Bulukumba
+5. Kabupaten Enrekang
+6. Kabupaten Gowa
+7. Kabupaten Jeneponto
+8. Kabupaten Luwu
+9. Kabupaten Maros
+10. Kabupaten Pangkajene Kepulauan
+11. Kabupaten Pinrang
+12. Kabupaten KepulauanSelayar
+13. Kabupaten Sinjai
+14. Kabupaten Sidenreng Rappang
+15. Kabupaten Soppeng
+16. Kabupaten Takalar
+17. Kabupaten Tana Toraja
+18. Kabupaten Wajo
+19. Kabupaten Luwu Utara
+20. Kabupaten Luwu Timur
+21. Kabupaten Toraja Utara
+22. Kota Makassar
+23. Kota Pare-Pare
+1. Kabupaten Bombana
+2. Kabupaten Buton
+3. Kabupaten Kolaka
+5. Kabupaten Muna
+6. Kabupaten Wakatobi
+7. Kabupaten Kolaka Utara
+8. Kabupaten Konawe Selatan
+9. Kabupaten Konawe Utara
+10. Kabupaten Buton Utara
+11. Kabupaten Kolaka Timur
+12. Kabupaten Konawe Kepulauan
+13. Kota Kendari
+14. Kota Bau-Bau
+1. Kabupaten Maluku Tengah
+2. Kabupaten Maluku Tenggara
+3. Kabupaten Buru
+4. Kabupaten Maluku Tenggara Barat
+5. Kabupaten Seram Bagian Barat
+6. Kabupaten Seram Bagian Timur
+7. Kabupaten Kepulauan Aru
+8. Kabupaten Maluku Barat Daya
+9. Kabupaten Buru Selatan
+10. Kota Ambon
+11. Kota Tual
+1. Kabupaten Halmahera Barat
+2. Kabupaten Halmahera Tengah
+3. Kabupaten Halmahera Selatan
+4. Kabupaten Halmahera Timur
+5. Kabupaten Halmahera Utara
+6. Kabupaten Kepulauan Sula
+7. Kabupaten Pulau Morotai
+8. Kabupaten Pulau Taliabu
+9. Kota Ternate
+10. Kota Tidore
+1. Kabupaten Fak-Fak
+2. Kabupaten Manokwari
+3. Kabupaten Sorong
+4. Kabupaten Teluk Wondama
+5. Kabupaten Kaimana
+6. Kabupaten Raja Ampat
+7. Kabupaten Sorong Selatan
+8. Kabupaten Teluk Bintuni
+9. Kabupaten Tambrauw
+10. Kabupaten Maybrat
+11. Kabupaten Manokwari Selatan
+12. Kabupaten Pegunungan Arfak
+13. Kota Sorong
+1. Kabupaten Biak Numfor
+2. Kabupaten Jayapura
+3. Kabupaten Jayawijaya
+4. Kabupaten Merauke
+5. Kabupaten Nabire
+7. Kabupaten Mimika
+8. Kabupaten Paniai
+9. Kabupaten Puncak Jaya
+10. Kabupaten Asmat
+11. Kabupaten Boven Digoel
+12. Kabupaten Keerom
+13. Kabupaten Sarmi
+14. Kabupaten Mappi
+15. Kabupaten Pegunungan Bintang
+16. Kabupaten Tolikara
+17. Kabupaten Waropen
+18. Kabupaten Yahukimo
+19. Kabupaten Supiori
+20. Kabupaten Mamberamo Raya
+21. Kabupaten Mamberamo Tengah
+22. Kabupaten Yalimo
+23. Kabupaten Lanny Jaya
+24. Kabupaten Nduga
+25. Kabupaten Puncak
+26. Kabupaten Dogiyai
+27. Kabupaten Intan Jaya
+28. Kabupaten Deiyai
+29. Kota Jayapura
+
+
+
+Daftar kabupaten dan kota yang menyediakan PNS:
+
+KAB. NAGEKEO
+KAB. LAMPUNG UTARA
+KAB. LABUHANBATU
+KOTA SOLOK
+KAB. NAGAN RAYA
+KAB. JEMBRANA
+KOTA MOJOKERTO
+KAB. SITUBONDO
+KAB. KARO
+KOTA TANJUNGBALAI
+KAB. KUANTAN SINGINGI
+KAB. ENDE
+KAB. MALUKU TENGGARA
+KAB. PULAU MOROTAI
+KAB. HALMAHERA TENGAH
+KAB. ALOR
+KAB. BERAU
+KAB. KATINGAN
+KAB. BARITO SELATAN
+KOTA TEBING TINGGI
+KAB. BARITO UTARA
+KAB. LOMBOK TIMUR
+KAB. MANGGARAI
+KAB. SUMBA TENGAH
+KAB. SUMBA TIMUR
+KOTA BIMA
+KOTA GUNUNG SITOLI
+KOTA MATARAM
+KOTA TERNATE
+KOTA TOMOHON
+KOTA BOGOR
+KAB. MALANG
+KAB. LOMBOK TENGAH
+KAB. NIAS UTARA
+KAB. LOMBOK UTARA
+KAB. SIMALUNGUN
+KOTA MANADO
+KOTA GORONTALO
+KAB. GIANYAR
+KAB. FLORES TIMUR
+KAB. NIAS
+KOTA BONTANG
+KAB. BURU
+KAB. JOMBANG
+KOTA PEKALONGAN
+KAB. PURBALINGGA
+KAB. JEPARA
+KAB. BANJARNEGARA
+KAB. TEGAL
+KAB. PIDIE JAYA
+KAB. SUMBA BARAT DAYA
+KAB. MANGGARAI BARAT
+KAB. PEKALONGAN
+KAB. KARAWANG
+KAB. TANGGAMUS
+KAB. PONTIANAK
+KAB. MELAWI
+KAB. KAYONG UTARA
+KOTA BEKASI
+KAB. LAMPUNG SELATAN
+KAB. OGAN ILIR
+KOTA CILEGON
+KAB. PASAMAN
+KAB. SOLOK
+KAB. LANDAK
+KAB. PADANG PARIAMAN
+KOTA PEKANBARU
+KOTA SAWAHLUNTO
+KAB. PELALAWAN
+KAB. BENGKAYANG
+KAB. PULANG PISAU
+KOTA TEGAL
+KOTA MAGELANG
+KAB. KENDAL
+KAB. KEBUMEN
+KAB. BANYUMAS
+KAB. BOYOLALI
+KAB. KLATEN
+KAB. BREBES
+PROV. BALI
+KAB. TABANAN
+KAB. KLUNGKUNG
+KAB. BANGLI
+KAB. KARANGASEM
+KAB. SERDANG BEDAGAI
+KAB. NIAS SELATAN
+KAB. LABUHANBATU UTARA
+KAB. BARITO TIMUR
+KAB. BENGKALIS
+KAB. MAMUJU
+KAB. BULELENG
+KAB. SERAM BAGIAN BARAT
+KAB. MALUKU TENGGARA BARAT
+KAB. TASIKMALAYA
+KAB. ROTE NDAO
+KAB. MALUKU BARAT DAYA
+KAB. BINTAN
+KAB. HALMAHERA BARAT
+KOTA TANJUNGPINANG
+KAB. MAMUJU UTARA
+KOTA TANGERANG SELATAN
+KAB. SINTANG
+KAB. TANAH BUMBU
+KOTA TANGERANG
+KAB. BANGKA SELATAN
+KOTA PANGKAL PINANG
+KAB. ACEH SELATAN
+KAB. ACEH TAMIANG
+KAB. ACEH TENGGARA
+KAB. BIREUEN
+KAB. SIMEULUE
+KAB. PANGANDARAN
+KAB. KOLAKA TIMUR
+KAB. BENER MERIAH
+KAB. OGAN KOMERING ULU
+KAB. PENUKAL ABAB LEMATANG ILIR
+KAB. BALANGAN
+KAB. MUNA
+KAB. HULU SUNGAI TENGAH
+KAB. POHUWATO
+KAB. ACEH BESAR
+KAB. BENGKULU TENGAH
+KAB. ACEH TIMUR
+KAB. DELI SERDANG
+KOTA TASIKMALAYA
+KAB. BELITUNG
+KAB. BANGGAI
+KAB. DAIRI
+KAB. KONAWE KEPULAUAN
+KAB. DOMPU
+KAB. KEPULAUAN TALAUD
+KAB. BUNGO
+KOTA LUBUK LINGGAU
+KOTA PAGAR ALAM
+KAB. PINRANG
+KAB. LUWU TIMUR
+KAB. NIAS BARAT
+KAB. TAKALAR
+KAB. PASAMAN BARAT
+KOTA SAMARINDA
+KAB. MUARA ENIM
+KAB. MAROS
+KAB. REJANG LEBONG
+KAB. LAMONGAN
+KAB. GARUT
+KAB. MESUJI
+KAB. MANDAILING NATAL
+KAB. MAHAKAM ULU
+KAB. SERANG
+KOTA SURAKARTA
+KAB. WAKATOBI
+KAB. SANGGAU
+KAB. TANAH DATAR
+KOTA SALATIGA
+KAB. SIDENRENG RAPPANG
+KAB. TIMOR TENGAH UTARA
+KAB. SEMARANG
+KAB. SLEMAN
+KAB. BANGGAI LAUT
+KOTA YOGYAKARTA
+KAB. KEPULAUAN SULA
+KAB. TULUNGAGUNG
+KAB. PONOROGO
+KAB. BONDOWOSO
+KAB. SIDOARJO
+KAB. BANGKALAN
+KAB. BONE BOLANGO
+KAB. ACEH BARAT DAYA
+KAB. SUMBA BARAT
+KOTA PAYAKUMBUH
+KOTA DUMAI
+KOTA PALOPO
+KOTA BINJAI
+KAB. HALMAHERA TIMUR
+KOTA AMBON
+KOTA SIBOLGA
+KAB. WAJO
+KAB. LEBONG
+KAB. MAJALENGKA
+KOTA MALANG
+KAB. BLITAR
+KAB. INDRAGIRI HILIR
+KAB. KULON PROGO
+KAB. TAPANULI TENGAH
+KAB. KEPAHIANG
+KAB. BANGKA TENGAH
+KOTA TIDORE KEPULAUAN
+KOTA KENDARI
+KAB. MUSI RAWAS UTARA
+KAB. DHARMASRAYA
+KAB. TOBA SAMOSIR
+KAB. KUTAI TIMUR
+KAB. KEPULAUAN SANGIHE
+KAB. BOLAANG MONGONDOW UTARA
+KAB. PESAWARAN
+KAB. HUMBANG HASUNDUTAN
+KAB. PRINGSEWU
+KAB. TAPANULI UTARA
+KAB. OGAN KOMERING ULU SELATAN
+KAB. ACEH SINGKIL
+KAB. NUNUKAN
+KAB. BOLAANG MONGONDOW TIMUR
+KAB. SAMOSIR
+KAB. PENAJAM PASER UTARA
+KAB. PIDIE
+KAB. PEMALANG
+KAB. BANGGAI KEPULAUAN
+KAB. PATI
+KAB. SELUMA
+KOTA BATAM
+KAB. SEKADAU
+KAB. SUMENEP
+KAB. SAROLANGUN
+KAB. PAMEKASAN
+KAB. SAMBAS
+KAB. BELITUNG TIMUR
+KAB. MURUNG RAYA
+KAB. MUKOMUKO
+KAB. MAMUJU TENGAH
+KAB. MAMASA
+KAB. NGADA
+KOTA DEPOK
+KAB. SUMBAWA
+KAB. ENREKANG
+KAB. SUMBAWA BARAT
+KAB. BUTON UTARA
+KOTA PASURUAN
+KOTA PALU
+KAB. SERAM BAGIAN TIMUR
+KOTA PADANG
+KAB. SAMPANG
+KAB. BARITO KUALA
+KOTA KUPANG
+KAB. BENGKULU SELATAN
+KAB. BLORA
+KAB. HULU SUNGAI SELATAN
+KAB. MAGELANG
+KOTA KOTAMOBAGU
+KAB. BENGKULU UTARA
+KAB. CILACAP
+KAB. AGAM
+KAB. PASURUAN
+KAB. BANGKA
+KAB. KETAPANG
+KAB. INDRAGIRI HULU
+KAB. BANTAENG
+KAB. TANJUNG JABUNG BARAT
+KAB. SRAGEN
+KAB. SOPPENG
+KAB. HULU SUNGAI UTARA
+KAB. EMPAT LAWANG
+KOTA BANJARMASIN
+KAB. SABU RAIJUA
+KAB. SIKKA
+KAB. BULUKUMBA
+KAB. BOLAANG MONGONDOW SELATAN
+KAB. BOLAANG MONGONDOW
+KAB. BANJAR
+KOTA BALIKPAPAN
+KAB. BUOL
+KAB. BIMA
+KAB. TUBAN
+KAB. BELU
+KAB. DEMAK
+KOTA CIMAHI
+KAB. OGAN KOMERING ILIR
+KAB. MAGETAN
+KAB. MALINAU
+KOTA SINGKAWANG
+KAB. MADIUN
+KAB. KEPULAUAN SIAU TOGULANDANG BIARO
+KAB. ROKAN HILIR
+KAB. SIAK
+KAB. BANYUWANGI
+KAB. GORONTALO UTARA
+KAB. LINGGA
+KAB. MAJENE
+KAB. MALAKA
+KAB. MANGGARAI TIMUR
+KAB. BOJONEGORO
+KAB. BARRU
+KAB. TANAH LAUT
+KAB. BATANG
+KOTA SURABAYA
+KAB. BULUNGAN
+KOTA TARAKAN
+KAB. TEBO
+KAB. TORAJA UTARA
+KAB. KAPUAS HULU
+KAB. GUNUNG MAS
+KAB. TAPIN
+KAB. KEPULAUAN ARU
+KAB. TANA TORAJA
+KAB. TABALONG
+KAB. HALMAHERA UTARA
+KAB. PESISIR SELATAN
+KAB. HALMAHERA SELATAN
+KAB. BOGOR
+KAB. BANGKA BARAT
+KAB. KUPANG
+KAB. GUNUNG KIDUL
+KAB. BEKASI
+KOTA PARIAMAN
+KAB. TOJO UNA UNA
+KAB. KUBU RAYA
+KAB. BURU SELATAN
+KAB. GROBOGAN
+KOTA METRO
+KOTA PONTIANAK
+KAB. SINJAI
+KOTA BLITAR
+KAB. INDRAMAYU
+KAB. WONOGIRI
+KAB. SERUYAN
+KAB. MINAHASA SELATAN
+KAB. KOTAWARINGIN TIMUR
+KAB. LOMBOK BARAT
+KAB. KOTAWARINGIN BARAT
+KAB. KOTABARU
+KAB. KONAWE SELATAN
+KOTA SEMARANG
+KAB. TULANG BAWANG
+KAB. GOWA
+KAB. TRENGGALEK
+KOTA TUAL
+KOTA PAREPARE
+KOTA MAKASSAR
+KOTA SUNGAI PENUH
+KAB. KAUR
+KOTA BANJARBARU
+KAB. SUKAMARA
+KAB. KEPULAUAN SELAYAR
+KAB. MUSI RAWAS
+KAB. KEDIRI
+KAB. TIMOR TENGAH SELATAN
+KAB. TEMANGGUNG
+KOTA BANDUNG
+Bali - Kab.Badung
+
+
+
+daftar kabupaten/kota yang tidak mengadakan formasi PNS:
+
+1. Kabupaten Aceh Barat
+2. Kabupaten Aceh Tengah
+3. Kabupaten Aceh Utara
+4. Kabupaten Aceh Jaya
+5. Kabupaten Gayo Lues
+6. Kota Banda Aceh
+7. Kota Sabang
+8. Kota Lhokseumawe
+9. Kota Langsa
+10. Kota Subulussalam
+11. Kabupaten Asahan
+12. Kabupaten Labuhan Batu
+13. Kabupaten Langkat
+14. Kabupaten Tapanuli Selatan
+15. Kabupaten Pakpak Bharat
+16. Kabupaten Batu Bara
+17. Kabupaten Padang Lawas Utara
+18. Kabupaten Padang Lawas
+19. Kabupaten Labuhanbatu Selatan
+20. Kota Medan
+21. Kota Pematang Siantar
+22. Kota Tanjung Balai
+23. Kota Padang Sidempuan
+24. Kota Gunungsitoli
+25. Kabupaten Lima Puluh Kota
+26. Kabupaten Kepulauan Mentawai
+27. Kabupaten Solok Selatan
+28. Kota Padangpanjang
+29. Kota Bukittinggi
+30. Kabupaten Batang Hari
+31. Kabupaten Merangin
+32. Kabupaten Kerinci
+33. Kabupaten Muaro Jambi
+34. Kabupaten Tanjung Jabung Timur
+35. Kota Jambi
+36. Kabupaten Kampar
+37. Kabupaten Rokan Hulu
+38. Kabupaten Kepulauan Meranti
+39. Kabupaten Karimun
+40. Kabupaten Natuna
+41. Kabupaten Kepulauan Anambas
+42. Kota Tanjung Pinang
+43. Kabupaten Muko-Muko
+44. Kota Bengkulu
+45. Kabupaten Lahat
+46. Kabupaten Musi Banyuasin
+47. Kabupaten Banyuasin
+48. Kabupaten Ogan Komering Ulu Timur
+49. Kota Palembang
+50. Kota Prabumulih
+51. Kabupaten Lampung Tengah
+52. Kabupaten Lampung Barat
+53. Kabupaten Lampung Timur
+54. Kabupaten Way Kanan
+55. Kabupaten Tulang Bawang Barat
+56. Kabupaten Lampung Barat
+57. Kota Bandar Lampung
+58. Kabupaten Lebak
+59. Kabupaten Pandeglang
+60. Kota AdministratifJakarta Barat
+61. Kota Administratif Jakarta Pusat
+62. Kota Administratif Jakarta Utara
+63. Kota Administratif Jakarta Timur
+64. Kota Administratif Jakarta Selatan
+65. Kabupaten Administratif Kepulauan Seribu
+66. Kabupaten Ciamis
+67. Kabupaten Cianjur
+68. Kabupaten Cirebon
+69. Kabupaten Kuningan
+70. Kabupaten Sukabumi
+71. Kabupaten Sumedang
+72. Kabupaten Purwakarta
+73. Kabupaten Subang
+74. Kabupaten Bandung Barat
+75. Kota Cirebon
+76. Kota Sukabumi
+77. Kabupaten Karanganyar
+78. Kabupaten Kudus
+79. Kabupaten Purworejo
+80. Kabupaten Rembang
+81. Kabupaten Sukoharjo
+82. Kabupaten Wonosobo
+83. Kabupaten Bantul
+84. Kabupaten Gresik
+85. Kabupaten Jember
+86. Kabupaten Lumajang
+87. Kabupaten Nganjuk
+88. Kabupaten Ngawi
+89. Kabupaten Pacitan
+90. Kabupaten Probolinggo
+91. Kota Probolinggo
+92. Kota Batu
+93. Kabupaten Badung
+94. Kota Denpasar
+95. Kabupaten Lembata
+96. Kabupaten Kapuas
+97. Kabupaten Kotawaringin Barat
+98. Kabupaten Kotawaringin Timur
+99. Kabupaten Lamandau
+100. Kota Palangkaraya
+101. Kabupaten Kotabaru
+102. Kabupaten Paser
+103. Kabupaten Kutai Barat
+104. Kabupaten Tana Tidung
+105. Kabupaten Minahasa
+106. Kabupaten Minahasa Utara
+107. Kabupaten Minahasa Tenggara
+108. Kabupaten Kepulauan Siau Tagulandang Biaro
+109. Kabupaten Bolaang MongondowTimur
+110. Kota Bitung
+111. Kota Kotamobagu
+112. Kabupaten Boalemo
+113. Kabupaten Donggala
+114. Kabupaten Poso
+115. Kabupaten Toli-Toli
+116. Kabupaten Morowali
+117. Kabupaten Parigi Moutong
+118. Kabupaten Tojo Una-Una
+119. Kabupaten Sigi
+120. Kabupaten Morowali Utara
+121. Kabupaten Bone
+122. Kabupaten Jeneponto
+123. Kabupaten Luwu
+124. Kabupaten Pangkajene Kepulauan
+125. Kabupaten KepulauanSelayar
+126. Kabupaten Luwu Utara
+127. Kota Pare-Pare
+128. Kabupaten Bombana
+129. Kabupaten Buton
+130. Kabupaten Kolaka
+131. Kabupaten Kolaka Utara
+132. Kabupaten Konawe Utara
+133. Kota Bau-Bau
+134. Kabupaten Maluku Tengah
+135. Kabupaten Pulau Taliabu
+136. Kota Tidore
+137. Kabupaten Fak-Fak
+138. Kabupaten Manokwari
+139. Kabupaten Sorong
+140. Kabupaten Teluk Wondama
+141. Kabupaten Kaimana
+142. Kabupaten Raja Ampat
+143. Kabupaten Sorong Selatan
+144. Kabupaten Teluk Bintuni
+145. Kabupaten Tambrauw
+146. Kabupaten Maybrat
+147. Kabupaten Manokwari Selatan
+148. Kabupaten Pegunungan Arfak
+149. Kota Sorong
+150. Kabupaten Biak Numfor
+151. Kabupaten Jayapura
+152. Kabupaten Jayawijaya
+153. Kabupaten Merauke
+154. Kabupaten Nabire
+155. Kabupaten Mimika
+156. Kabupaten Paniai
+157. Kabupaten Puncak Jaya
+158. Kabupaten Asmat
+159. Kabupaten Boven Digoel
+160. Kabupaten Keerom
+161. Kabupaten Sarmi
+162. Kabupaten Mappi
+163. Kabupaten Pegunungan Bintang
+164. Kabupaten Tolikara
+165. Kabupaten Waropen
+166. Kabupaten Yahukimo
+167. Kabupaten Supiori
+168. Kabupaten Mamberamo Raya
+169. Kabupaten Mamberamo Tengah
+170. Kabupaten Yalimo
+171. Kabupaten Lanny Jaya
+172. Kabupaten Nduga
+173. Kabupaten Puncak
+174. Kabupaten Dogiyai
+175. Kabupaten Intan Jaya
+176. Kabupaten Deiyai
+177. Kota Jayapura
