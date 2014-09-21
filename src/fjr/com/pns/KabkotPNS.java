@@ -69,7 +69,9 @@ public class KabkotPNS {
 					Elements cols = row_row.select("td");  
 					Element col = cols.get(0); 
 					String text_1 = col.text(); 
-					if(text1.equalsIgnoreCase(text_1.replaceAll("(KAB|KOTA).", "").trim())){
+					text1 = text1.replace("-", " ").replaceAll("\\s{2,100}", "\\s"); 
+					text_1 = text_1.replaceAll("(KAB\\.|KOTA\\s)", "").replaceAll("\\s{2,100}", "\\s").trim(); 
+					if(text1.equalsIgnoreCase(text_1)){
 						continue A ; 
 					}
 				}

@@ -947,84 +947,79 @@ daftar kabupaten/kota yang tidak mengadakan formasi PNS:
 94. Kota Denpasar
 95. Kabupaten Lembata
 96. Kabupaten Kapuas
-97. Kabupaten Kotawaringin Barat
-98. Kabupaten Kotawaringin Timur
-99. Kabupaten Lamandau
-100. Kota Palangkaraya
-101. Kabupaten Kotabaru
-102. Kabupaten Paser
-103. Kabupaten Kutai Barat
-104. Kabupaten Tana Tidung
-105. Kabupaten Minahasa
-106. Kabupaten Minahasa Utara
-107. Kabupaten Minahasa Tenggara
-108. Kabupaten Kepulauan Siau Tagulandang Biaro
-109. Kabupaten Bolaang MongondowTimur
-110. Kota Bitung
-111. Kota Kotamobagu
-112. Kabupaten Boalemo
-113. Kabupaten Donggala
-114. Kabupaten Poso
-115. Kabupaten Toli-Toli
-116. Kabupaten Morowali
-117. Kabupaten Parigi Moutong
-118. Kabupaten Tojo Una-Una
-119. Kabupaten Sigi
-120. Kabupaten Morowali Utara
-121. Kabupaten Bone
-122. Kabupaten Jeneponto
-123. Kabupaten Luwu
-124. Kabupaten Pangkajene Kepulauan
-125. Kabupaten KepulauanSelayar
-126. Kabupaten Luwu Utara
-127. Kota Pare-Pare
-128. Kabupaten Bombana
-129. Kabupaten Buton
-130. Kabupaten Kolaka
-131. Kabupaten Kolaka Utara
-132. Kabupaten Konawe Utara
-133. Kota Bau-Bau
-134. Kabupaten Maluku Tengah
-135. Kabupaten Pulau Taliabu
-136. Kota Tidore
-137. Kabupaten Fak-Fak
-138. Kabupaten Manokwari
-139. Kabupaten Sorong
-140. Kabupaten Teluk Wondama
-141. Kabupaten Kaimana
-142. Kabupaten Raja Ampat
-143. Kabupaten Sorong Selatan
-144. Kabupaten Teluk Bintuni
-145. Kabupaten Tambrauw
-146. Kabupaten Maybrat
-147. Kabupaten Manokwari Selatan
-148. Kabupaten Pegunungan Arfak
-149. Kota Sorong
-150. Kabupaten Biak Numfor
-151. Kabupaten Jayapura
-152. Kabupaten Jayawijaya
-153. Kabupaten Merauke
-154. Kabupaten Nabire
-155. Kabupaten Mimika
-156. Kabupaten Paniai
-157. Kabupaten Puncak Jaya
-158. Kabupaten Asmat
-159. Kabupaten Boven Digoel
-160. Kabupaten Keerom
-161. Kabupaten Sarmi
-162. Kabupaten Mappi
-163. Kabupaten Pegunungan Bintang
-164. Kabupaten Tolikara
-165. Kabupaten Waropen
-166. Kabupaten Yahukimo
-167. Kabupaten Supiori
-168. Kabupaten Mamberamo Raya
-169. Kabupaten Mamberamo Tengah
-170. Kabupaten Yalimo
-171. Kabupaten Lanny Jaya
-172. Kabupaten Nduga
-173. Kabupaten Puncak
-174. Kabupaten Dogiyai
-175. Kabupaten Intan Jaya
-176. Kabupaten Deiyai
-177. Kota Jayapura
+97. Kabupaten Lamandau
+98. Kota Palangkaraya
+99. Kabupaten Paser
+100. Kabupaten Kutai Barat
+101. Kabupaten Tana Tidung
+102. Kabupaten Minahasa
+103. Kabupaten Minahasa Utara
+104. Kabupaten Minahasa Tenggara
+105. Kabupaten Kepulauan Siau Tagulandang Biaro
+106. Kabupaten Bolaang MongondowTimur
+107. Kota Bitung
+108. Kabupaten Boalemo
+109. Kabupaten Donggala
+110. Kabupaten Poso
+111. Kabupaten Toli-Toli
+112. Kabupaten Morowali
+113. Kabupaten Parigi Moutong
+114. Kabupaten Sigi
+115. Kabupaten Morowali Utara
+116. Kabupaten Bone
+117. Kabupaten Jeneponto
+118. Kabupaten Luwu
+119. Kabupaten Pangkajene Kepulauan
+120. Kabupaten KepulauanSelayar
+121. Kabupaten Luwu Utara
+122. Kota Pare-Pare
+123. Kabupaten Bombana
+124. Kabupaten Buton
+125. Kabupaten Kolaka
+126. Kabupaten Kolaka Utara
+127. Kabupaten Konawe Utara
+128. Kota Bau-Bau
+129. Kabupaten Maluku Tengah
+130. Kabupaten Pulau Taliabu
+131. Kota Tidore
+132. Kabupaten Fak-Fak
+133. Kabupaten Manokwari
+134. Kabupaten Sorong
+135. Kabupaten Teluk Wondama
+136. Kabupaten Kaimana
+137. Kabupaten Raja Ampat
+138. Kabupaten Sorong Selatan
+139. Kabupaten Teluk Bintuni
+140. Kabupaten Tambrauw
+141. Kabupaten Maybrat
+142. Kabupaten Manokwari Selatan
+143. Kabupaten Pegunungan Arfak
+144. Kota Sorong
+145. Kabupaten Biak Numfor
+146. Kabupaten Jayapura
+147. Kabupaten Jayawijaya
+148. Kabupaten Merauke
+149. Kabupaten Nabire
+150. Kabupaten Mimika
+151. Kabupaten Paniai
+152. Kabupaten Puncak Jaya
+153. Kabupaten Asmat
+154. Kabupaten Boven Digoel
+155. Kabupaten Keerom
+156. Kabupaten Sarmi
+157. Kabupaten Mappi
+158. Kabupaten Pegunungan Bintang
+159. Kabupaten Tolikara
+160. Kabupaten Waropen
+161. Kabupaten Yahukimo
+162. Kabupaten Supiori
+163. Kabupaten Mamberamo Raya
+164. Kabupaten Mamberamo Tengah
+165. Kabupaten Yalimo
+166. Kabupaten Lanny Jaya
+167. Kabupaten Nduga
+168. Kabupaten Puncak
+169. Kabupaten Dogiyai
+170. Kabupaten Intan Jaya
+171. Kabupaten Deiyai
+172. Kota Jayapura
